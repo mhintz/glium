@@ -35,7 +35,6 @@ use std::borrow::Cow;
 use std::cell::Cell;
 use std::rc::Rc;
 use std::ops::Range;
-use std::os::raw;
 
 use ops;
 use fbo;
